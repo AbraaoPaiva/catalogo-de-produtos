@@ -1,6 +1,6 @@
 
-# Controlador de estoque utilizando Laravel
-Sistema simples para controlar estoque em geral de produtos com possiveis melhorias no futuro como:
+# Catalogo de produtos utilizando Laravel
+Sistema simples para controlar produtos em geral de produtos com possiveis melhorias no futuro como:
 Sistema de cadastro de usuário, sistema de login e etc.
 
 Com esse sistema é possível adicionar um novo produto, listar todos produtos, visualizar um produto específico e deletar um produto.
