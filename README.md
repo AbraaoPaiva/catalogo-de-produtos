@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +63,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Controlador de estoque
+Sistema simples para controlar estoque em geral de produtos com possiveis melhorias no futuro como:
+Sistema de cadastro de usuário, sistema de login e etc.
+
+Com esse sistema é possível adicionar um novo produto, listar todos produtos, visualizar um produto específico e deletar um produto.
+Além dos produtos, é possível adicionar uma categoria a ele, por exemplo: informática, construção, alimentos e etc...
+
+É possível realizar a manipulação das categorias tal como dos produtos (CRUD).
+Lembre-se de conectar ao banco de dados.
+
+# Validações dos dados
+Todos os dados inseridos passam por uma validação antes de serem inseridos no banco de dados!
+>>>>>>> 3995197ec858707119225cd64a6a4916f002c42d
