@@ -1,5 +1,5 @@
 
-# Catalogo de produtos utilizando Laravel
+# Catálogo de produtos utilizando Laravel
 Sistema simples para controlar produtos em geral de produtos com possiveis melhorias no futuro como:
 Sistema de cadastro de usuário, sistema de login e etc.
 
